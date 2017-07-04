@@ -1,0 +1,16 @@
+{
+  "author": "dignifiedquire",
+  "bugs": {
+    "url": "https://github.com/gorilla/websocket"
+  },
+  "gx": {
+    "dvcsimport": "github.com/gorilla/websocket"
+  },
+  "gxVersion": "0.11.0",
+  "language": "go",
+  "license": "",
+  "name": ".",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "0.0.0"
+}
+
